@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Food Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="welcome">
+  Heyy Cutie 😄 Eat Moreeeee 🍔🍕
+</div>
+
+<header>
+  <h1> Food Menu</h1>
+
+  <input type="text" id="search" placeholder="Search food...">
+
+  <div class="filters">
+    <button onclick="filterMenu('all')">All</button>
+    <button onclick="filterMenu('veg')">Veg</button>
+    <button onclick="filterMenu('nonveg')">Non-Veg</button>
+    <button onclick="filterMenu('dessert')">Dessert</button>
+  </div>
+
+  <button onclick="toggleDarkMode()"> Toggle Mode</button>
+
+  <div class="cart">
+     <span id="cart-count">0</span> items |
+    Total: ₹<span id="total">0</span>
+  </div>
+</header>
+
+<div id="menu" class="menu-container"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

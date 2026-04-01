@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Veg Burger",
+    "category": "veg",
+    "price": "₹120",
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086"
+  },
+   
+  {
+    "name": "Mutton Briyani",
+    "category": "veg",
+    "price": "₹200",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0"
+  },
+  {
+    "name": "Samosa",
+    "category": "veg",
+    "price": "₹70",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "name": "Paneer Curry",
+    "category": "veg",
+    "price": "₹167",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+  },
+
+  {
+    "name": "Chicken Biryani",
+    "category": "nonveg",
+    "price": "₹300",
+    "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a"
+  },
+  {
+    "name": "Full snack meal",
+    "category": "nonveg",
+    "price": "₹1600",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+  },
+  {
+    "name": "pluffy poached egg",
+    "category": "nonveg",
+    "price": "₹220",
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7"
+  },
+  {
+    "name": "squid fry",
+    "category": "nonveg",
+    "price": "₹280",
+    "image": "https://images.unsplash.com/photo-1559737558-2f5a35f4523b"
+  },
+
+  {
+    "name": "Ice Cream",
+    "category": "dessert",
+    "price": "₹90",
+    "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f"
+  },
+  {
+    "name": "Chocolate Cake",
+    "category": "dessert",
+    "price": "₹400",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+  },
+  {
+    "name": "Brownie",
+    "category": "dessert",
+    "price": "₹120",
+    "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52"
+  },
+  {
+    "name": "Donut",
+    "category": "dessert",
+    "price": "₹160",
+    "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b"
+  },
+  
+{
+  "name": "Mojito Mocktail",
+  "category": "drinks",
+  "price": "₹180",
+  "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87"
+},
+{
+  "name": "Ice Cream",
+  "category": "drinks",
+  "price": "₹200",
+  "image": "https://images.unsplash.com/photo-1579954115563-e72bf1381629"
+},
+
+{
+  "name": "Cold Coffee",
+  "category": "drinks",
+  "price": "₹220",
+  "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+}
+  
+
+]
